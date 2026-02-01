@@ -50,6 +50,7 @@ The **MLP Classifier** outperformed traditional models, demonstrating the power 
 ---
 
 ### 📁 Repository Structure
+```text
 ├── Major assignment.ipynb        # Complete Python implementation (EDA, preprocessing, model training)
 ├── adult.csv                    # Adult Income dataset used for training and testing
 ├── README.md                    # Project overview, methodology, and results
