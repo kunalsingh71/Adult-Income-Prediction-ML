@@ -50,8 +50,10 @@ The **MLP Classifier** outperformed traditional models, demonstrating the power 
 ---
 
 ### 📁 Repository Structure
-```text
-├── Major assignment.ipynb   # Full Python implementation
-├── adult.csv                # Project Dataset
-├── README.md                # Project Documentation
-└── images/                  # Visualizations (Boxplots, Confusion Matrix)
+├── Major assignment.ipynb        # Complete Python implementation (EDA, preprocessing, model training)
+├── adult.csv                    # Adult Income dataset used for training and testing
+├── README.md                    # Project overview, methodology, and results
+├── Final Project Report.pdf     # Detailed project report with analysis, results, and conclusions
+├── LICENSE.md                   # MIT License for open-source usage
+├── .gitignore                   # Ignored files (virtual env, cache, system files)
+
