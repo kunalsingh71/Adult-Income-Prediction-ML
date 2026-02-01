@@ -16,5 +16,5 @@ env/
 .vscode/
 .idea/
 
-# Large data files (Optional: If you want people to download data from Kaggle instead of your repo)
+# Large data files 
 # adult.csv
